@@ -6,4 +6,4 @@ install: requirements.txt
 	pip install -r requirements.txt
 
 main: main.py
-	python3 main.py
+	python main.py
